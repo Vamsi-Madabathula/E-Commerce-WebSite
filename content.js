@@ -93,7 +93,6 @@ httpRequest.onreadystatechange = function() {
     }
 }
 // Opens a GET request to the product API.
-
 // Sends the request to fetch the product d
 httpRequest.open(
     "GET",
